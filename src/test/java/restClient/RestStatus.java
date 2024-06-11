@@ -1,4 +1,4 @@
-package objectData.restClient;
+package restClient;
 
 public class RestStatus {
 

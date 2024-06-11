@@ -1,4 +1,4 @@
-package objectData.restClient;
+package restClient;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

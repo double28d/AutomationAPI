@@ -1,17 +1,11 @@
 package tests;
 
-import io.restassured.RestAssured;
-import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
 import objectData.request.RequestAccount;
 //import objectData.request.RequestBook1;
 import objectData.response.ResponseAccountSucces;
 //import objectData.response.ResponseBookSuccess;
 import objectData.response.ResponseTokenSuccess;
-import objectData.restClient.RestClient;
-import objectData.restClient.RestEndPoint;
-import objectData.restClient.RestStatus;
-import org.testng.Assert;
+import restClient.RestClient;
 import org.testng.annotations.Test;
 import propertiesUtillity.PropertiesUtillity;
 import service.AccountService;

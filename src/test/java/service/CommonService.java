@@ -3,7 +3,7 @@ package service;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import objectData.restClient.RestClient;
+import restClient.RestClient;
 
 public class CommonService {
 

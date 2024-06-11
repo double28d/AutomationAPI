@@ -4,8 +4,8 @@ import io.restassured.response.Response;
 import objectData.request.RequestAccount;
 import objectData.response.ResponseAccountSucces;
 import objectData.response.ResponseTokenSuccess;
-import objectData.restClient.RestEndPoint;
-import objectData.restClient.RestStatus;
+import restClient.RestEndPoint;
+import restClient.RestStatus;
 import org.testng.Assert;
 
 public class AccountService extends CommonService{

@@ -1,4 +1,4 @@
-package objectData.restClient;
+package restClient;
 
 import java.security.PublicKey;
 
